@@ -1,0 +1,44 @@
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\bin\Debug\ParkSim.exe.config
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\bin\Debug\ParkSim.exe
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\bin\Debug\ParkSim.pdb
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.csprojAssemblyReference.cache
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form1.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Properties.Resources.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.csproj.GenerateResource.cache
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.csproj.CoreCompileInputs.cache
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.exe
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.pdb
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form2.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form3.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form10.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form11.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form12.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form13.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form4.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form5.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form6.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form7.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form8.resources
+D:\Freelance\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form9.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\bin\Debug\ParkSim.exe.config
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\bin\Debug\ParkSim.exe
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\bin\Debug\ParkSim.pdb
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.csprojAssemblyReference.cache
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form1.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form10.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form11.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form12.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form13.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form2.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form3.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form4.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form5.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form6.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form7.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form8.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Form9.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.Properties.Resources.resources
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.csproj.GenerateResource.cache
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.csproj.CoreCompileInputs.cache
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.exe
+D:\Freelance\Portfolyo\yazılım\Biten İşler\16 mayıs c#windowsform karı kız\ParkSim\ParkSim\obj\Debug\ParkSim.pdb
